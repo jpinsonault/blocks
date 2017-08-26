@@ -11,3 +11,6 @@ Draw some blocks on the screen
 
     ./docker_run.sh
     
+    
+    
+![thing](http://imgur.com/6lHPNr3.jpg)
