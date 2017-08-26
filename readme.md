@@ -13,4 +13,4 @@ Draw some blocks on the screen
     
     
     
-http://imgur.com/6lHPNr3
+![thing](http://imgur.com/6lHPNr3.jpg)
