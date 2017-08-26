@@ -1,6 +1,4 @@
-import os.path, sys
 from lib import blocks
-sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), os.pardir))
 
 def test_the_creation_of_a_grid():
     # A grid holds the colors of the squares
