@@ -1,3 +1,5 @@
+![](https://travis-ci.org/Benhgift/blocks.svg?branch=master)
+
 # Blocks
 
 Draw some blocks on the screen
