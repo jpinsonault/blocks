@@ -10,4 +10,3 @@ def test_the_creation_of_a_grid():
 
     assert(len(blocks.create_grid(3, 3, color_map)) == 3)
 
-
