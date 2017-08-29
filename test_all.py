@@ -16,9 +16,14 @@ def test_move_a_creature_around():
     # a creature is just a position right now
     creature = blocks.create_creature()
 
-    grid = blocks.create_grid()
+    grid = blocks.create_grid(3, 3, _make_some_colors())
 
     # now move the creature a few times and see if it explodes
     for _ in range(10):
         blocks.move_creature
     assert(creature)
+
+
+def _make_some_colors():
+    color_map = {'grey': lambda: (1, 128, 1)}
+    return color_map
